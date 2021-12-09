@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/abdul-maajid/upgradeable-contracts/issues"
   },
-  "homepage": "https://github.com/abdul-maajid/upgradeable-contracts#readme"
+  "homepage": "https://github.com/abdul-maajid/upgradeable-contracts#readme",
+  "devDependencies": {
+    "@openzeppelin/truffle-upgrades": "^1.11.0",
+    "@truffle/hdwallet-provider": "^2.0.0"
+  }
 }
